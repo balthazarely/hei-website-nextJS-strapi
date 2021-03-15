@@ -1,0 +1,24 @@
+.bgWrap {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  z-index: -1;
+}
+.parralaxContainer {
+  position: relative;
+}
+
+.bannerOverlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(36, 79, 116, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.parralax {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

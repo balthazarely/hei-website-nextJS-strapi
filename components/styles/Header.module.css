@@ -1,0 +1,14 @@
+.navcontainer {
+}
+.navcontentcontainer {
+  max-width: 1400px;
+  width: 100%;
+}
+.link {
+  cursor: pointer;
+  color: white;
+}
+.activeLink {
+  cursor: pointer;
+  color: purple;
+}
